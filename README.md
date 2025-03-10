@@ -1,2 +1,2 @@
-# Flutter Onboarding Animation
+# Flutter Fitness App
 
